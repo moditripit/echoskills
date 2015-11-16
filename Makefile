@@ -1,4 +1,4 @@
-PROGRAM = ../bin/echo_server
+PROGRAM = bin/echo_server
 COMPILER = g++
 CFLAGS = -g -gstabs
 objects := $(patsubst %.cpp,%.o,$(wildcard *.cpp))
