@@ -1,8 +1,8 @@
 #include "wolfram.h"
 
 const int   wolfram_app_in_use 	  = 0;
-const string wolfram_app_id[] = {	"J938L5-VT7HJ589E9",
-									"LWWKJV-38WP7TRT45",
+const string wolfram_app_id[] = {	"######-##########",
+									"######-##########",
 									"######-##########"};
                                     
  
